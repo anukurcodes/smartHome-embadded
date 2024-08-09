@@ -1,0 +1,30 @@
+# Arduino compiled files
+*.elf
+*.hex
+*.bin
+*.dfu
+*.eep
+*.elf
+*.hex
+*.ino.*
+*.a
+*.o
+*.d
+*.pyc
+
+# Arduino build folders
+build*/
+
+# Arduino sketch folders
+*.sketch
+
+# Precompiled Libraries
+*.lib
+
+# IDE specific files
+*.idea/
+*.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
